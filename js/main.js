@@ -227,7 +227,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     headers: {
                         "x-rapidapi-host": "wordsapiv1.p.rapidapi.com",
                         "x-rapidapi-key":
-                            "8d88ad4583msh8a5b7d81641af3dp12d17cjsn90ad24a466dc",
+                            "<YOUR_UNIQUE_KEY>",
                     },
                 }
             );
